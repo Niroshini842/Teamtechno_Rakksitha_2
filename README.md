@@ -10,7 +10,10 @@ FashionAI - A Text-to-3D Fashion Design Tool : Creating 3D fashion models by lev
     
 ## Tech Stack: 
    stable diffusion - for generating a 2D model
-   NErf tiny - for generating the available 2D model to 3D
+   NeRF tiny - for generating the available 2D model to 3D
+
+## What i learned:
+While we weren't able to fully complete and implement the prototype for our 3D fashion design tool, the development process provided invaluable insights. One of the biggest learnings was the computational complexity and resource demands of training and running NeRF models. We discovered that training NeRF on large datasets can be time-consuming, even with powerful GPUs. This highlighted the need for more efficient NeRF implementations or specialized hardware for real-time applications. Additionally, we gained a deeper understanding of the challenges involved in generating high-quality 3D models from 2D images, particularly when dealing with complex fashion designs. This experience underscored the importance of refining the image generation process and exploring advanced techniques for 3D reconstruction.
   
 
 
