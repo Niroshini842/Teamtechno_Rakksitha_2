@@ -1,23 +1,17 @@
 # Vervathon-2023
 
-## Submission Instruction:
-  1. Fork this repository
-  2. Create a folder with your Team Name,Team leader name and your problem statement number
-  3. Upload all the code and necessary files in the created folder
-  4. Upload a **README.md** file in your folder with the below mentioned informations.
-  5. Generate a Pull Request with your Team Name. (Example: XYZ_Adhi_1)
 
-## README.md must consist of the following information:
-
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Team Techno
+#### Problem Statement - 3D model generation from text using GENERATIVE AI
+#### Team Leader Email - rakksithar@gmail.com
 
 ## A Brief of the Prototype:
-  This section must include prototype description
-  
+FashionAI - A Text-to-3D Fashion Design Tool : Creating 3D fashion models by leveraging the power of Stable Diffusion and NeRF AI models, and DeepFashion dataset that allows designers to effortlessly generate 3D fashion models from simple text descriptions
+    
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype
+   stable diffusion - for generating a 2D model
+   NErf tiny - for generating the available 2D model to 3D
   
-## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+
+
+   
